@@ -1,0 +1,348 @@
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.PrintForm.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\User\source\repos\ABI_POC_PCR\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\User\Downloads\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+D:\작업중인PJT201030\ABI_POC_PCR+(20201105)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\user\Desktop\dahunj\ABI_POC_PCR+그래프추가_수정2(20201120) (1)\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\user\Desktop\dahunj\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\POC_PCR 프로젝트\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\ing\20201124_ABI_POC_PCR+그래프추가_수정2\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\1.projects\POC_PCR project\PC SW\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\2. source code\abi_poc_pcr\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Home.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MTBC.MTBC_Home.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Home_Selection.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.SideMenu.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\2. source code\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.config
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ABI_POC_PCR.pdb
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\MetroFramework.Design.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\MetroFramework.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ScottPlot.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csprojAssemblyReference.cache
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.AboutBox1.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.LogIn.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.MainFrm.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.InfoDialog.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.Properties.Resources.resources
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.GenerateResource.cache
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe.manifest
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.application
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.csproj.CopyComplete
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.exe
+C:\Users\dahun\Desktop\-ing\poc_pcr_hmi_winform 2021_01_22\ABI_POC_PCR\obj\Debug\ABI_POC_PCR.pdb

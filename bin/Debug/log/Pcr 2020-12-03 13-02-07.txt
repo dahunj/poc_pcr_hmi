@@ -1,0 +1,27 @@
+
+==== start ====
+
+start=0
+SM4:Finishtime:103975
+PEL:opr_ptr
+[Cold]26.000,26.000
+PEL:JOB_READY
+PEL:peltier_ctrl_pre_cond2
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=2
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=3
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=4
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=5
+peltctrl.routine_id=COOLING_ROUTINE
+OPT:starttime:578959
+OPTICactionstart:579059
+OPTICactionstart:579061
+g_rountine_cnt=6
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=7
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=8
+peltctrl.routine_id=COOLING_ROUTINE

@@ -1,0 +1,16 @@
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Release\ABI_POC_PCR.exe.config
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Release\ABI_POC_PCR.exe.manifest
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Release\ABI_POC_PCR.application
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Release\ABI_POC_PCR.exe
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\bin\Release\ABI_POC_PCR.pdb
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.csprojAssemblyReference.cache
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.AboutBox1.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.MainFrm.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.InfoDialog.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.PrintForm.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.Properties.Resources.resources
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.csproj.GenerateResource.cache
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.exe.manifest
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.application
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.exe
+D:\KNVISION Dropbox\____Project\P20200805-ABI-POC-PCR\소스파일\ABI_POC_PCR\ABI_POC_PCR\obj\Release\ABI_POC_PCR.pdb

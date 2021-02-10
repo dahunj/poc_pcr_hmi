@@ -1,0 +1,16 @@
+
+==== start ====
+
+start=0
+SM4:Finishtime:253685
+PEL:opr_ptr
+[Cold]21.250,21.250
+PEL:JOB_READY
+PEL:peltier_ctrl_pre_cond2
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=2
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=3
+peltctrl.routine_id=COOLING_ROUTINE
+g_rountine_cnt=4
+peltctrl.routine_id=COOLING_ROUTINE

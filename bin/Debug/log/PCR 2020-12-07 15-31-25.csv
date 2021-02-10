@@ -1,0 +1,17 @@
+﻿ ,Optic,Base,15Cycle,20Cycle,25Cycle,30Cycle,35Cycle,40Cycle,Final
+chamber01,FAM,162,167,0,0,0,0,0,0
+chamber01,ROX,100,104,0,0,0,0,0,0
+chamber01,HEX,34,34,0,0,0,0,0,0
+chamber01,CYS,2485,2486,0,0,0,0,0,0
+chamber02,FAM,111,116,0,0,0,0,0,0
+chamber02,ROX,70,74,0,0,0,0,0,0
+chamber02,HEX,30,29,0,0,0,0,0,0
+chamber02,CYS,2426,2492,0,0,0,0,0,0
+chamber03,FAM,108,114,0,0,0,0,0,0
+chamber03,ROX,51,53,0,0,0,0,0,0
+chamber03,HEX,25,25,0,0,0,0,0,0
+chamber03,CYS,961,981,0,0,0,0,0,0
+chamber04,FAM,169,172,0,0,0,0,0,0
+chamber04,ROX,67,68,0,0,0,0,0,0
+chamber04,HEX,33,34,0,0,0,0,0,0
+chamber04,CYS,2000,2019,0,0,0,0,0,0
